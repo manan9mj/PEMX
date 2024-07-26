@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.search-component {
+  margin-top: 5rem;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
