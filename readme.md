@@ -97,11 +97,10 @@ npm run start
 ```
 
 
-### Screenshots from the WebApp
-![image](https://github.com/user-attachments/assets/c4d8aa79-893d-4032-a81c-d7820b32f67c)
-![Screenshot 2024-07-26 144117](https://github.com/user-attachments/assets/9e558e02-ee84-4f9d-ae78-87682d4b7c53)
-![Screenshot 2024-07-26 144333](https://github.com/user-attachments/assets/ffd11f39-6324-4a0b-9ac6-68ebd9e1c9b3)
-![Screenshot 2024-07-26 144433](https://github.com/user-attachments/assets/5f09d860-4561-4242-b159-b09c2f10fb2f)
-![Screenshot 2024-07-26 144532](https://github.com/user-attachments/assets/7837c6f7-3d65-4b3d-8c5e-c755c6397d6c)
+### Screenshots from the WebApp![Screenshot 2024-07-26 144532](https://github.com/user-attachments/assets/b8ecfa65-a7c5-4ba0-a5ad-2d1c94c18ee0)
+![Screenshot 2024-07-26 144433](https://github.com/user-attachments/assets/78b5fa7f-07d2-4c1f-af41-33bb06aad24a)
+![Screenshot 2024-07-26 144333](https://github.com/user-attachments/assets/f9e504a7-5a39-4f77-bc31-fe0edc8e31fc)
+![Screenshot 2024-07-26 144117](https://github.com/user-attachments/assets/ea91733c-33fb-40dc-8df3-543ac245ad36)
+![Screenshot 2024-07-26 143828](https://github.com/user-attachments/assets/358745d6-5a73-4b6f-8f8b-d04e5644eb45)
 
 
