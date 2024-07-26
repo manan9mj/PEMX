@@ -1,0 +1,16 @@
+{
+  "name": "pemx",
+  "version": "1.0.0",
+  "description": "Product Events Message Exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "product",
+    "event",
+    "retail"
+  ],
+  "author": "Manan",
+  "license": "ISC"
+}
